@@ -1,16 +1,23 @@
-## Hi there 👋
+## Installation
 
-<!--
-**WolfyNet/WolfyNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Chrome / Chromium / Edge / Opera
 
-Here are some ideas to get you started:
+1. Téléchargez ou clonez ce repository.
+2. Ouvrez la page des extensions :
+   - Chrome : `chrome://extensions`
+   - Chromium : `chrome://extensions`
+   - Edge : `edge://extensions`
+   - Opera : `opera://extensions`
+3. Activez le **Mode développeur**.
+4. Cliquez sur **Charger l'extension non empaquetée** (`Load unpacked`).
+5. Sélectionnez le dossier contenant `manifest.json`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Firefox
+
+1. Téléchargez ou clonez ce repository.
+2. Ouvrez `about:debugging`.
+3. Cliquez sur **Ce Firefox**.
+4. Cliquez sur **Charger un module complémentaire temporaire**.
+5. Sélectionnez le fichier `manifest.json` de l'extension.
+
+> Sur Firefox, l'installation via `about:debugging` est temporaire et doit être renouvelée après le redémarrage du navigateur.
