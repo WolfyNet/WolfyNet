@@ -8,7 +8,7 @@
 4. Cliquez sur **Charger l’extension non empaquetée** (*Load unpacked*).
 5. Sélectionnez le dossier contenant `manifest.json`.
 
-📖 [Documentation officielle Chrome — Load unpacked](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world)
+📖 [Documentation officielle Chrome — Load unpacked](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
 ---
 
